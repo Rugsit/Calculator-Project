@@ -15,9 +15,9 @@
 ![calculatorimg](https://github.com/user-attachments/assets/18038f97-bf24-430d-a559-80221de98489)
 
 ## Live Demo
-https://image-gallery-project-omega.vercel.app/
+https://calculator-project-p87x.vercel.app/
 
 ## Descriptions
 - This project is created for practicing web development and enhancing skills in React, TailwindCSS, Neovim, REST APIs, as well as JavaScript and HTML.
 - It supports responsive design.
-- Ui ref https://youtu.be/FiGmAI5e91M?si=njHH6esUniytytHz
+- Ui ref https://www.figma.com/community/file/881195330537323050/neumorphic-calculator 
